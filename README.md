@@ -1,5 +1,5 @@
 # Hypothesis
-<div align="center"><a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README.md">English</a></div>
+<div align="center"><a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README.md">English</a></div>  
 ## 目录
 - [简介](#简介)  
 - [跨空间的假说](#跨空间的假说)  
