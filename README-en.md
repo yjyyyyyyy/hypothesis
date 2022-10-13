@@ -1,4 +1,6 @@
 # Hypothesis
+<div align="center"><a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README.md">中文</a> | English</div>  
+
 ## Contents
 - [Introduction](#Introduction)  
 - [Hypothesis about interdimensional creatures](#Hypothesis-about-interdimensional-creatures)  
