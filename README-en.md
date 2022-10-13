@@ -6,7 +6,7 @@
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
 
-***authors: ***[`yjyyyyyyy(Writing)`](https://github.com/yjyyyyyyy) [`WillamSun（Writing README.md & giving ideas）`](https://github.com/WillamSun)
+***Authors:*** [`yjyyyyyyy(Writing)`](https://github.com/yjyyyyyyy) [`WillamSun（Writing README.md & giving ideas）`](https://github.com/WillamSun)
 ## Hypothesis about interdimensional creatures
 ***Hypothesis about the existence of interdimensional creatures***
 
@@ -20,12 +20,12 @@ Maybe this hypothesis is boring, but I don't find it boring to think about it. O
 
 ***yjy Fri.23.Sep.2022 with William***
 ## Opinion of congenital insufficiency
-***关于人类对“残疾人”偏见的质疑***
+***Questions about my prejudice against "disabled"***
 
-> 有许多先天性疾病或不足，或是只是与常人的不同，都会被人们定义为*不健康*。此类*不健康*存在通常需要得到治疗。治疗的方式有许多，如*药物治疗*、*手术治疗*等。通过治疗将*不健康*的人医治成贴合大众的生理健康情况。就好比全世界都是丧尸，但是我们并不知道，我们自以为自己是健康的，但是或许我们每人都是丧尸，那些在我们眼里不正常的人，比如*精神分裂*这一类的人，有可能他们才是正常人（以上是我的理解）
+> There are many congenital diseases or deficiencies, or just different from ordinary people, that people define as *unhealthy*. Such an *unhealthy* presence usually requires treatment. There are many ways of treatment, such as *drug therapy*, *surgery* and so on. Healing *unhealthy* people to fit the physical health of the general public through therapy. It's like the whole world is full of zombies, but we don't know, we think we are healthy, but maybe we are all zombies, those who are abnormal in our eyes, such as *schizophrenia* People, maybe they are normal people (the above is my understanding)
 
-我的想法是：
-如果存在这样一种可能。所谓某种*不健康*的人类才是最本来的人类模样，其他人才是真的*变异*。或许因为变异的人类数量实在太多，因此后来人们就认为我们现在*健康*的模样才是人类原本的样子。
-答案不然，或许所谓*残疾*、*先天性缺陷*才是人类最本初的模样，可以肯定的是：其实残疾的不是你的身体，不过是大众的思想罢了。当大部分人畸变成统一模样，定义就被改变了。注射药物、手术治疗或许不过就是将原本正常的人“医治”成符合大众审美的标准。然而此类审美又是从何而来的呢？或许你会说先天性缺陷导致残疾人生活上的不便，影响的是他们自己的行动便利。那么行动便利的目的又是什么呢？是为了完成与他人共存的义务吧。当其他人用双手完成一件事情，并不代表这件事你一定要去做或一定要用双手去做，这从来不是你生来的义务，你完全可以不做此事或换种方式完成此事，用你自己的方式完成此事。不要被任何事物或隐性规定束缚，你可以用你身体的任意一部分享受这个世界值得完成的事情，不需要随众处事。任何人，从来没有义务考虑合群。  
+My opinion is:
+If there is such a possibility. The so-called *unhealthy* human being is the most original human appearance, and other people are really *mutated*. Perhaps because there are so many mutated humans, people later think that our current *healthy* appearance is the original human appearance.
+The answer is no. Perhaps the so-called *disability* and *congenital defect* are the original appearance of human beings. What is certain is that it is not your body that is disabled, but the mind of the public. When most people are distorted into uniformity, the definition is changed. Injections of drugs and surgical treatment may be nothing more than "healing" a normal person into a standard of public aesthetics. But where does this aesthetic come from? Perhaps you would say that congenital defects cause inconvenience in the lives of disabled people, affecting their own mobility. So what is the purpose of facilitation? It is to fulfill the duty of coexistence with others. When other people do something with their hands, it doesn't mean you have to do it or you have to do it with both hands. do it in your own way. Don't be bound by anything or implicit rules, you can enjoy what the world deserves with any part of your body, no need to go along. No one is ever obliged to consider gregariousness.
   
 ***yjy Tue.11.Oct.2022 with William***
