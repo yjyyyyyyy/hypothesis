@@ -41,3 +41,9 @@ Our thinking is:
 Humans are ordinary primates, but compared to other animals, we have our own mind and consciousness. Hence the term psychology and philosophy. From a psychological point of view, people are greedy for fame and fortune. Since ancient times, all rulers have longed to rule the world and long for immortality. Of course, this is impossible. After understanding this impossibility, he will still do his best to achieve the goal of ruling, for the sake of his fame after his death, for his own reputation. People come to this world to see the flowers, trees, mountains and rivers in this world, to leave traces of their past on this beautiful planet, and to see more life and things. Even if the good memories cease to exist after we die, the short-lived happiness is worthwhile. How can our life be called a success if we just keep spending time, energy, crying and grief for things that are not worth it? We are greedy for life because we are afraid of losing the things that make us happy; on the contrary, some people think that there is no point in living because there is nothing that can make them happy. What are the things that make us happy? It is those worthy sights, other worthy lives, or the pleasure brought by fame and achievement. In the final analysis, the meaning of human existence is to enjoy the things worthwhile in this world.  
 
 ***yjy and William Thur.13.Oct.2022***
+
+Copyright ©️
+```
+Copyright (c) 2022 William Sun & Dory Yang
+All rights reserved
+```
