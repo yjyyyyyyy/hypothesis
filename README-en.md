@@ -1,5 +1,5 @@
 # Hypothesis
-<div align="center"><a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README.md">中文</a> | English</div>  
+<div align="center"><a href="README.md">中文</a> | English</div>  
 
 ## Contents
 - [Introduction](#Introduction)  
