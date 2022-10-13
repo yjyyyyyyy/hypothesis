@@ -1,5 +1,5 @@
 # Hypothesis
-<div align="center">中文|<a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README.md">English</a></div>  
+<div align="center">中文 | <a href="https://github.com/yjyyyyyyy/hypothesis/blob/main/README-en.md">English</a></div>  
 
 ## 目录
 - [简介](#简介)  
