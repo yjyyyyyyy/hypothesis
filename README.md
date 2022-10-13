@@ -1,10 +1,11 @@
-
-***作者：***[`yjyyyyyyy（写作）`](https://github.com/yjyyyyyyy) [`WillamSun（填写README.md & 提供灵感）`](https://github.com/WillamSun)
+# Hypothesis
 ## 目录
-
+- [简介](#简介)  
 - [跨空间的假说](#跨空间的假说)  
-- [看待先天性不足](#看待先天性不足)  
-
+- [看待先天性不足](#看待先天性不足)
+## 简介
+这个存储库写了一些关于作者和作者朋友两个人突发奇想的一些哲学问题，觉得光有想法不行，就动笔把他写在了GitHub上
+***作者：***[`yjyyyyyyy（写作）`](https://github.com/yjyyyyyyy) [`WillamSun（填写README.md & 提供灵感）`](https://github.com/WillamSun)
 ## 跨空间的假说
 ***关于跨空间次元生物存在的假说***
 
