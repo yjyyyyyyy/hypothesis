@@ -1,5 +1,5 @@
 # Hypothesis
-<div align="center">中文 | <a href="README-en.md">English</a></div>  
+<div align="center"><a href="README.md">中文</a> | <a href="README-en.md">English</a> | 中文（繁體）</div>  
 
 ## 目錄
 - [簡介](#簡介)  
