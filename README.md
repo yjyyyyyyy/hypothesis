@@ -1,5 +1,5 @@
 
-作者：[`yjyyyyyyy（写作）`](https://github.com/yjyyyyyyy) [`WillamSun（填写README.md&提供灵感）`](https://github.com/WillamSun)
+***作者：***[`yjyyyyyyy（写作）`](https://github.com/yjyyyyyyy) [`WillamSun（填写README.md & 提供灵感）`](https://github.com/WillamSun)
 ## 目录
 
 - [跨空间的假说](#跨空间的假说)  
