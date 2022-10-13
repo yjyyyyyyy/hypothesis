@@ -6,6 +6,7 @@
 - [Hypothesis about interdimensional creatures](#Hypothesis-about-interdimensional-creatures)  
 - [Opinion of congenital insufficiency](#Opinion-of-congenital-insufficiency)
 - [The meaning of human existence](#The-meaning-of-human-existence)
+- [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
 
@@ -42,7 +43,8 @@ Humans are ordinary primates, but compared to other animals, we have our own min
 
 ***yjy and William Thur.13.Oct.2022***
 
-Copyright ©️
+# Copyright
+©️©️©️©️©️
 ```
 Copyright (c) 2022 William Sun & Dory Yang
 All rights reserved
