@@ -46,7 +46,7 @@ Humans are ordinary primates, but compared to other animals, we have our own min
 ## Copyright
 ©️©️©️©️©️
 ```
-Copyright (c) 2022 William Sun & Dory Yang
+Copyright (c) 2022 Dory Yang & William Sun
 All rights reserved
 ```
   
