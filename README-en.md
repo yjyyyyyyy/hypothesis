@@ -1,5 +1,5 @@
 # Hypothesis
-<div anlig>
+<div anlign="center"><a href="README.md">中文</a> | English</div>
 ## Contents
 - [Introduction](#Introduction)  
 - [Hypothesis about interdimensional creatures](#Hypothesis-about-interdimensional-creatures)  
