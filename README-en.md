@@ -13,7 +13,7 @@
 ## Hypothesis about interdimensional creatures
 ***Hypothesis about the existence of interdimensional creatures***
 
->The teacher of morality and law asked us a question: "*Human imitation of language belongs to learning, so does the dialogue between AI programs such as siri and human beings belong to learning?" The answer given by the teacher is no. She said that the AI program is only running the code edited by humans and the instructions given by humans. If humans do not edit instructions, the program will not run.
+>The teacher of morality and law asked us a question: "*Human imitation of language belongs to learning, so does the dialogue between AI programs such as siri and human beings belong to learning?*" The answer given by the teacher is no. She said that the AI program is only running the code edited by humans and the instructions given by humans. If humans do not edit instructions, the program will not run.
 
 My hypothesis is:  
 About my understanding of AI is the second-dimensional existence constructed by human beings (third-dimensional creatures), virtual existence. (I don't know how it is defined academically.) Humans give instructions, and the second dimension runs.
