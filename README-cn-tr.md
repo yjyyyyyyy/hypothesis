@@ -11,6 +11,7 @@
 - [版權](#版權)
 ## 簡介
 > 這個存儲庫寫了一些關於作者和作者朋友兩個人突發奇想的一些哲學問題，覺得光有想法不行，就動筆把他寫在了GitHub上
+
 ***作者：***[`yjyyyyyyy（寫作）`](https://github.com/yjyyyyyyy) [`WillamSun（填寫README.md & 提供靈感）`](https://github.com/WillamSun)
 ## 跨空間的假說
 ***關於跨空間次元生物存在的假說***
