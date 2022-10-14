@@ -43,6 +43,17 @@ Humans are ordinary primates, but compared to other animals, we have our own min
 
 ***yjy and William Thur.13.Oct.2022***
 
+## If your game suddenly stops serving
+***How would you react if the game you were playing would be stop servicing tomorrow?***
+
+> Do you play video games? Video games have become a way of entertainment for many teenagers, and recharging video games has become the norm. Many people spend a lot of time, energy and money on video games. When game are suddenly stop servicing, or when the game is unloaded and their previous efforts are wasted, they usually become upset because the results they have spent time, energy and money on are lost in a flash. This proves how important game records are to players. What will happen if your game suddenly stops serving at this moment?
+
+想象一下，你深度沉迷一款游戏，你为其充值了一些金钱，你呕心沥血在游戏中创造了辉煌战绩。可是正当你沉迷这个游戏，玩得火热朝天时，游戏在一夜之间停服了。你所创造的战绩全部消失，你也不知道你充值的金钱流向了哪里。没有游戏的你度日如年，因为常年沉迷游戏，你的生活几乎无法自理。此时你的内心只剩下迷茫和无助。无聊时你翻看新闻，发现有无数玩家和你一样，有的难过有的愤怒。你又了解到：有的程序员已经在试图恢复这款游戏，同时在尝试恢复你们的数据。程序员的这个想法得到了许多玩家的大力支持，可是又掀起了一阵舆论：程序员如果成功恢复玩家们的数据，对玩家们来说，他们就将成为英雄；相反之，如果程序员没有成功恢复玩家们的数据，可能程序员将会受到大家的网络暴力。人们会说：“既然没有这样的技术，又何必宣扬？”
+但是我们想说的是，程序员已经在为众多玩家尝试恢复他们的数据。没有义务去帮助大家，无论成功与否，玩家们都应该心怀感激。
+回到正题，为何在我们的故事里，你和其它玩家在失去这个电子游戏后变得情绪糟糕、迷茫、无助呢？或许是因为你们已经过于依赖这个电子游戏了，你的大脑和思想被这个虚拟的电子游戏所操控，它成为了你的精神寄托；还有一点就是因为你在这款电子游戏上消耗了了大把的时间和金钱，你无法接受你前期所付出的精力和金钱在此刻不知去向。
+  
+***yjy and William Fri.14.Oct.2022***
+
 ## Copyright
 ©️©️©️©️©️
 ```
