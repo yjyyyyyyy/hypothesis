@@ -12,7 +12,7 @@
 ## 简介
 > 这个存储库写了一些关于作者和作者朋友两个人突发奇想的一些哲学问题，觉得光有想法不行，就动笔把他写在了GitHub上
 
-***作者：***[`yjyyyyyyy（写作 & 纠错）`](https://github.com/yjyyyyyyy) [`WillamSun（填写README.md & 提供灵感 & 翻译）`](https://github.com/WillamSun)
+***作者：***[`yjyyyyyyy（写作 & 灵感 & 校对 ）`](https://github.com/yjyyyyyyy) [`WillamSun（完善 & 提供灵感 & 翻译）`](https://github.com/WillamSun)
 ## 跨空间的假说
 ***关于跨空间次元生物存在的假说***
 
