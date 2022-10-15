@@ -59,6 +59,8 @@ What I want to say is: the one in the story is better being a  programmer and be
 > Life may be an immersive VR game, our space may be fictitious, and everyone around you may be the NPC of the game.
 > Before the game starts, your previous life memories will be cleared and everything will start from scratch. The historical figures or events you learned in your life, such as Newton, Beethoven and Qin Shihuang, are most likely fictional. (You may ask, "How can their remains be proved?" If my hypothesis is true, their remains are also created by the game program)
 
+During the game, you need to constantly explore and learn in this virtual VR space to survive in the game. You will see many things and people and master many skills. In the early stage of the game (your childhood), you are not very familiar with the social unspoken rules of the game, so you need the help and tips of adults (NPC); Through constant exploration, you will gradually adapt and become proficient in survival. If you are proficient in survival skills and have no accidental death, then at the end of the game, you really understand the social unspoken rule of the game, and your life will eventually come to an end.  
+
 
 ## Copyright
 ©️©️©️©️©️
