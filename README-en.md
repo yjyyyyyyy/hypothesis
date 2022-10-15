@@ -53,7 +53,12 @@ Imagine you're deeply addicted to a game, you top it up with some money, and you
 Back to the point, why do you and other players in our story become emotionally bad, confused, and helpless after losing this video game? Perhaps because you have become too dependent on this video game, your brain and mind are controlled by this virtual video game, which has become your spiritual sustenance; Another thing is that because you have spent a lot of time and money on this video game, you can't accept that the energy and money you put in up front of you don't know where to go at this moment.
 What I want to say is: the one in the story is better being a  programmer and becoming the hero in the players of in the story than playing game; Instead of putting so much into the game, it is better to do something actually meaningful, the game can be stopped and disappeared, but 1+1 is always equal to 2, and the same is true until the world is destroyed.
   
-***yjy and William Fri.14.Oct.2022***
+***yjy and William Fri.14.Oct.2022***  
+## The hypothesis of life
+***The hypothesis about "life is like a game"***  
+> Life may be an immersive VR game, our space may be fictitious, and everyone around you may be the NPC of the game.
+> Before the game starts, your previous life memories will be cleared and everything will start from scratch. The historical figures or events you learned in your life, such as Newton, Beethoven and Qin Shihuang, are most likely fictional. (You may ask, "How can their remains be proved?" If my hypothesis is true, their remains are also created by the game program)
+
 
 ## Copyright
 ©️©️©️©️©️
