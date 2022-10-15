@@ -6,6 +6,8 @@
 - [Hypothesis about interdimensional creatures](#Hypothesis-about-interdimensional-creatures)  
 - [Opinion of congenital insufficiency](#Opinion-of-congenital-insufficiency)
 - [The meaning of human existence](#The-meaning-of-human-existence)
+- [If your game suddenly stops serving](#If-your-game-suddenly-stops-serving)
+- [The hypothesis of life](#The-hypothesis-of-life)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
