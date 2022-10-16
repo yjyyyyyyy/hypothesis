@@ -11,8 +11,13 @@
 - [版权](#版权)
 ## 简介
 > 这个存储库写了一些关于作者和作者朋友两个人突发奇想的一些哲学问题，觉得光有想法不行，就动笔把他写在了GitHub上
+ 
+***作者（如有意见，可以在issues里留言，也可以发邮件）：*** 
+|作者|邮箱|分工|
+|:---:|:---:|:---:|
+|[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|完善 & 灵感 & 翻译|
+|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)||写作 & 优化 & 校对|
 
-***作者：***[`yjyyyyyyy（写作 & 优化 & 校对 ）`](https://github.com/yjyyyyyyy) [`WillamSun（完善 & 灵感 & 翻译）`](https://github.com/WillamSun)  
 [点击此处查看版权](#版权)
 ## 跨空间的假说
 ***关于跨空间次元生物存在的假说***
