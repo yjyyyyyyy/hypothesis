@@ -15,8 +15,8 @@
 ***Author(If you have an idea, you can wrote an issues, you can also send email):*** 
 |Name|Email|Division|
 |:---:|:---:|:---:|
+|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com|Writing & proofreading & correction|
 |[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|completing & ideas & translation|
-|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)||Writing & proofreading & correction|
 
 [Click here to view copyright](#Copyright)
 ## Hypothesis about interdimensional creatures
