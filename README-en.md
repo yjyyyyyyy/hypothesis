@@ -12,7 +12,7 @@
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
 
-***Authors:*** [`yjyyyyyyy(Writing & proofreading & correction)`](https://github.com/yjyyyyyyy) [`WillamSun（completing & ideas & translation）`](https://github.com/WillamSun) 
+***Authors:*** [`yjyyyyyyy(Writing & proofreading & correction)`](https://github.com/yjyyyyyyy) [`WillamSun（completing & ideas & translation）`](https://github.com/WillamSun)  
 [Click here to view copyright](#Copyright)
 ## Hypothesis about interdimensional creatures
 ***Hypothesis about the existence of interdimensional creatures***
