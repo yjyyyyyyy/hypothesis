@@ -15,8 +15,8 @@
 ***作者（如有意见，可以在issues里留言，也可以发邮件）：*** 
 |作者|邮箱|分工|
 |:---:|:---:|:---:|
+|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com|写作 & 优化 & 校对|
 |[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|完善 & 灵感 & 翻译|
-|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)||写作 & 优化 & 校对|
 
 [点击此处查看版权](#版权)
 ## 跨空间的假说
