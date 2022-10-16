@@ -7,7 +7,7 @@
 - [Opinion of congenital insufficiency](#Opinion-of-congenital-insufficiency)
 - [The meaning of human existence](#The-meaning-of-human-existence)
 - [If your game suddenly stops serving](#If-your-game-suddenly-stops-serving)
-- [The hypothesis of life](#The-hypothesis-of-life)
+- [Hypothesis about the game of life](#Hypothesis-about-the-game-of-life)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
@@ -57,8 +57,8 @@ Back to the point, why do you and other players in our story become emotionally 
 What I want to say is: the one in the story is better being a  programmer and becoming the hero in the players of in the story than playing game; Instead of putting so much into the game, it is better to do something actually meaningful, the game can be stopped and disappeared, but 1+1 is always equal to 2, and the same is true until the world is destroyed.
   
 ***yjy and William Fri.14.Oct.2022***  
-## The hypothesis of life
-***The hypothesis about "life is like a game"***  
+## Hypothesis about the game of life
+***Hypothesis about "life is like a game"***  
 > Life may be an immersive VR game, our space may be fictitious, and everyone around you may be the NPC of the game.
 > Before the game starts, your previous life memories will be cleared and everything will start from scratch. The historical figures or events you learned in your life, such as Newton, Beethoven and Qin Shihuang, are most likely fictional. (You may ask, "How can their remains be proved?" If my hypothesis is true, their remains are also created by the game program)
 
