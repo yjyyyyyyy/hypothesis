@@ -12,7 +12,7 @@
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
 
-***Author(If you have any suggests or ideas, you can write an issues, or send email to us🤔):*** 
+***Author(If you have any suggests or ideas, you can write an issues, or write it down in Discussions, also you can send email to us🤔):*** 
 |Name|Email|Division|
 |:---:|:---:|:---:|
 |[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com|Writing & proofreading & correction|
