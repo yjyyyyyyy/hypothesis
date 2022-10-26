@@ -8,6 +8,7 @@
 - [The meaning of human existence](#The-meaning-of-human-existence)
 - [If your game suddenly stops serving](#If-your-game-suddenly-stops-serving)
 - [Hypothesis about the game of life](#Hypothesis-about-the-game-of-life)
+- [My understanding of war](#My-understanding-of-war)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
@@ -70,7 +71,17 @@ What I want to say is: the one in the story is better being a  programmer and be
 Is there a possibility, life is a game. During the game, you need to constantly explore and learn in this virtual VR space to survive in the game. You will see many things and people and master many skills. In the early stage of the game (your childhood), you are not very familiar with the social unspoken rules of the game, so you need the help and tips of adults (NPC); Through constant exploration, you will gradually adapt and become proficient in survival. If you are proficient in survival skills and have no accidental death, then at the end of the game, you really understand the social unspoken rule of the game, and your life will eventually come to an end.  
 
 If our hypothesis is true, life is a game, why not live happily through this life and give yourself a good game experience? If possible, we should try every possibility in life, learn every skill, and try to live more brilliantly in this short game, which is meaningful.  
-***William and yjy Fri.14.Oct.2022***
+***William and yjy Fri.14.Oct.2022***  
+
+## My understanding of war
+***About my thoughts on the war against the war***  
+> War is a huge part of human history. Would technology develop faster without war? What are the disadvantages of war for mankind?
+
+Whether it is ancient times where gunpowder smoke is everywhere, or modern times with advanced technology, the pace of war has never stopped. Some wars may be for profit, for justice, or for resolving conflicts. But the disadvantages of war definitely outweigh the advantages, not only casualties, but also the economy.
+Without the war, the economy would have grown faster and much less casualties. Our idea is: if there is no war, and people all over the world work together to develop technology, human civilization will be on a higher level.
+*But is it really right* If there are no contradictions, human beings have no way to screen out excellent leaders, and there is no way to progress from contradictions, and human civilization may not be so good.
+So, what I want to say is: if there is no war, mankind will not learn from war, but if war is fought every day, it will also cause too many casualties. So we want to avoid war as much as possible. The best way is to resolve conflicts peacefully.
+***William and yjy Tue.25.Oct.2022***
 
 ## Copyright
 ©️©️©️©️©️
