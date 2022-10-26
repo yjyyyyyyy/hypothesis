@@ -73,14 +73,14 @@ Is there a possibility, life is a game. During the game, you need to constantly 
 If our hypothesis is true, life is a game, why not live happily through this life and give yourself a good game experience? If possible, we should try every possibility in life, learn every skill, and try to live more brilliantly in this short game, which is meaningful.  
 ***William and yjy Fri.14.Oct.2022***  
 
-## My understanding of war
-***About my thoughts on the war against the war***  
-> War is a huge part of human history. Would technology develop faster without war? What are the disadvantages of war for mankind?
+## About pros and cons of war
+***About our thoughts to the war***  
+> War is a huge part of human history. Would technology develop faster without war? And what are the pros and cons of war for mankind?
 
-Whether it is ancient times where gunpowder smoke is everywhere, or modern times with advanced technology, the pace of war has never stopped. Some wars may be for profit, for justice, or for resolving conflicts. But the disadvantages of war definitely outweigh the advantages, not only casualties, but also the economy.
-Without the war, the economy would have grown faster and much less casualties. Our idea is: if there is no war, and people all over the world work together to develop technology, human civilization will be on a higher level.
-*But is it really right* If there are no contradictions, human beings have no way to screen out excellent leaders, and there is no way to progress from contradictions, and human civilization may not be so good.
-So, what I want to say is: if there is no war, mankind will not learn from war, but if war is fought every day, it will also cause too many casualties. So we want to avoid war as much as possible. The best way is to resolve conflicts peacefully.
+Whether it is ancient times where‘s full of smoke of gunpowder, or modern times with advanced technology, the pace of war has never stopped. Some wars may be for profit, for justice, or for resolving conflicts. But the disadvantages of war definitely outweigh the advantages, not only casualties, but also the economy.
+Without the war, the economy would have grown faster and much less casualties，it would also reduce a lot of the unnecessary suffering wars caused. We thought that: if there is no war, and people all over the world work together to develop technology, human civilization will be on a higher level.
+*But is that all?* If there are no wars, human beings would have no way to screen out excellent leaders, and there would be no way to progress from contradictions, civilization would also change dramatically, maybe better or worse, no one knows.
+After all: War included both pros and cons, but the disadvantages brought by war definitely outweigh the advantages. We should avoid war and conflict as much as possible. We better resolve conflicts peacefully.
 ***William and yjy Tue.25.Oct.2022***
 
 ## Copyright
