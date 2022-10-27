@@ -8,7 +8,7 @@
 - [The meaning of human existence](#The-meaning-of-human-existence)
 - [If your game suddenly stops serving](#If-your-game-suddenly-stops-serving)
 - [Hypothesis about the game of life](#Hypothesis-about-the-game-of-life)
-- [My understanding of war](#My-understanding-of-war)
+- [About pros and cons of war](#About-pros-and-cons-of-war)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
