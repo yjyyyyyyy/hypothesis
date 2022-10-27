@@ -43,14 +43,20 @@ The answer is no. Perhaps the so-called *disability* and *congenital defect* are
   
 ***yjy Tue.11.Oct.2022 with William***
 ## The meaning of human existence
-***Talk about the meaning of human existence***
+***Talking about the meaning of human existence***
   
-> Have you ever wondered what the meaning of human existence is? After all, people will die, so why try to live? Why are you greedy for fame and fortune? Why do human beings exist on this earth and why are they trying to rule the world?
+>Have you ever wondered what the meaning of human existence is?  
 
-Our thinking is:  
-Humans are ordinary primates, but compared to other animals, we have our own mind and consciousness. Hence the term psychology and philosophy. From a psychological point of view, people are greedy for fame and fortune. Since ancient times, all rulers have longed to rule the world and long for immortality. Of course, this is impossible. After understanding this impossibility, he will still do his best to achieve the goal of ruling, for the sake of his fame after his death, for his own reputation. People come to this world to see the flowers, trees, mountains and rivers in this world, to leave traces of their past on this beautiful planet, and to see more life and things. Even if the good memories cease to exist after we die, the short-lived happiness is worthwhile. How can our life be called a success if we just keep spending time, energy, crying and grief for things that are not worth it? We are greedy for life because we are afraid of losing the things that make us happy; on the contrary, some people think that there is no point in living because there is nothing that can make them happy. What are the things that make us happy? It is those worthy sights, other worthy lives, or the pleasure brought by fame and achievement. In the final analysis, the meaning of human existence is to enjoy the things worthwhile in this world.  
-
-***yjy and William Thur.13.Oct.2022***
+Humans will eventually die, so why are we trying to be alive? Why are we greedy for fame and fortune? Why do human beings exist on this earth and why are they trying to rule the world?
+In our opinion：Humans are very common primates, but compared to other animals, we have our own mind and perceptions. So there, we have psychology and philosophy. From a psychological point of view, people are greedy for fame and fortune. 
+Since ancient times, all rulers have longed to rule the world and they want to live forever. Of course, this is impossible. After understanding this impossibility, people will still do their best to achieve the goal of ruling, for the sake of his fame after his death, for his own reputation. People come to this world is in order to see where things are in this world, in order to leave traces of their past on this gorgeous planet, and in order to see more life and things. Even if the good memories cease to exist after we die, but it’s deserve to get a short happiness from it. 
+How can our life be called a success if we just keep spending time, energy, crying and grief for things that are not worth it? 
+We are greedy for living because we are afraid of losing the things that make us happy; on the contrary, some people want to die because there are nothing that can make them happy. 
+What are the things that make us happy? It is those worthy sights, other worthy lives and people, or the pleasure brought by fame and achievements. 
+After all, the meaning of human existence is to enjoy the things worthwhile in this world.  
+***yjy and William Thur.13.Oct.2022***  
+***yjy editing Tue.25.Oct.2022***
+*this paragraph would be used in yjy‘s individual speech contest*
 
 ## If your game suddenly stops serving
 ***How would you react if the game you were playing would be stop servicing tomorrow?***
@@ -61,8 +67,8 @@ Imagine you're deeply addicted to a game, you top it up with some money, and you
 
 Back to the point, why do you and other players in our story become emotionally bad, confused, and helpless after losing this video game? Perhaps because you have become too dependent on this video game, your brain and mind are controlled by this virtual video game, which has become your spiritual sustenance; Another thing is that because you have spent a lot of time and money on this video game, you can't accept that the energy and money you put in up front of you don't know where to go at this moment.
 What I want to say is: the one in the story is better being a  programmer and becoming the hero in the players of in the story than playing game; Instead of putting so much into the game, it is better to do something actually meaningful, the game can be stopped and disappeared, but 1+1 is always equal to 2, and the same is true until the world is destroyed.
-  
 ***yjy and William Fri.14.Oct.2022***  
+
 ## Hypothesis about the game of life
 ***Hypothesis about "life is like a game"***  
 > Life may be an immersive VR game, our space may be fictitious, and everyone around you may be the NPC of the game.
