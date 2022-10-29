@@ -21,7 +21,7 @@
 
 [Click here to view copyright](#Copyright)
 ## Hypothesis about interdimensional creatures
-***Hypothesis about the existence of interdimensional creatures***
+***Hypothesis about the existence of interdimensional creatures, will there be higher-level creatures?***
 
 >The teacher of morality and law asked us a question: "*Human imitating language belongs to learning, so does Siri and other AI programsands talking to humans belongs to learning?*" The answer given by the teacher is *false* . She said that the AI program was only running the code edited by humans and the instructions given by humans. If humans did not edit any instructions, the program would not run.
 
@@ -33,7 +33,7 @@ Maybe this hypothesis is boring, but I don't think that it is boring to think ab
 
 ***yjy Fri.23.Sep.2022 with William***
 ## Opinion of “congenital insufficiency”
-***Regarding my doubts about the term "disabled"***
+***Regarding my doubts about the term "disabled", are they really disabled?***
 
 > There are many congenital diseases or deficiencies, or just different from ordinary people, that people define as *unhealthy*. Such an *unhealthy* presence usually requires treatment. There are many ways of treatment, such as *drug therapy*, *surgery* and so on. Healing *unhealthy* people to fit the physical health of the general public through therapy. It's like the whole world is full of zombies, but we don't know, we think we are healthy, but maybe we are all zombies, those who are abnormal in our eyes, such as *schizophrenia* People, maybe they are normal people (the above is my understanding)
 
@@ -43,7 +43,7 @@ The answer is no. Perhaps the so-called *disability* and *congenital defect* are
   
 ***yjy Tue.11.Oct.2022 with William***
 ## The meaning of human existence
-***Talking about the meaning of human existence***
+***What is the significance of human existence? Is it accidental?***
   
 >Have you ever wondered what the meaning of human existence is?  
 
@@ -70,7 +70,7 @@ What I want to say is: the one in the story is better being a  programmer and be
 ***yjy and William Fri.14.Oct.2022***  
 
 ## Hypothesis about the game of life
-***Hypothesis about "life is like a game"***  
+***Since life is a game, why not just be happy every day?***  
 > Life may be an immersive VR game, our space may be fictitious, and everyone around you may be the NPC of the game.
 > Before the game starts, your previous life memories will be cleared and everything will start from scratch. The historical figures or events you learned in your life, such as Newton, Beethoven and Emperor Qin, might all be fictional. (You may ask, "How can their remains be proved?" If my hypothesis is true, their remains are also created by the game program)
 
@@ -80,7 +80,7 @@ If our hypothesis is true, life is a game, why not live happily through this lif
 ***William and yjy Fri.14.Oct.2022***  
 
 ## About pros and cons of war
-***About our thoughts to the war***  
+***Is it worth to fight wars? If so, where is it? What if it's not worth it?***  
 > War is a huge part of human history. Would technology develop faster without war? And what are the pros and cons of war for mankind?
 
 Whether it is ancient times where‘s full of smoke of gunpowder, or modern times with advanced technology, the pace of war has never stopped. Some wars may be for profit, for justice, or for resolving conflicts. But the disadvantages of war definitely outweigh the advantages, not only casualties, but also the economy.
