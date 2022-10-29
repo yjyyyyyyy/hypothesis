@@ -98,7 +98,7 @@ After all: War included both pros and cons, but the disadvantages brought by war
 In today's society ruled by law, all things should be done in accordance with discipline and law. At the same time, many treaties and regulations have been added, and the behavior is carried out according to the system.  
 However, sometimes laws and treaties limit the freedom of some acts. Is this good or bad for people? For examples: Children are not allowed to smoke and drink; For adults, speeding is not allowed while driving.  
 In fact, although various laws and regulations restrict the freedom of conduct in the general sense, they also allow and protect the safety and legal freedom of the masses. If children smoke and drink, it may cause chronic diseases; Driving over speed may lead to accidents. Without legal provisions, many people will lack safety awareness, which will lead to accidents and crimes. Without treaties and plans, life will become chaotic, and more unexpected accidents may occur.  
-In the final analysis, laws and treaties do not completely limit our freedom. It is either directly or indirectly protecting our life safety and freedom.  
+In the final analysis, laws and treaties do not completely limit our freedom. It is either directly or indirectly protecting our freedom.  
 ***William and yjy Sat.29.Oct.2022***  
 
 ## Copyright
