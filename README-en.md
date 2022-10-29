@@ -9,6 +9,7 @@
 - [If your game suddenly stops serving](#If-your-game-suddenly-stops-serving)
 - [Hypothesis about the game of life](#Hypothesis-about-the-game-of-life)
 - [About pros and cons of war](#About-pros-and-cons-of-war)
+- [Things about freedom and treaties](#Things-about-freedom-and-treaties)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
@@ -88,6 +89,12 @@ Without the war, the economy would have grown faster and much less casualties，
 *But is that all?* If there are no wars, human beings would have no way to screen out excellent leaders, and there would be no way to progress from contradictions, civilization would also change dramatically, maybe better or worse, no one knows.
 After all: War included both pros and cons, but the disadvantages brought by war definitely outweigh the advantages. We should avoid war and conflict as much as possible. We better resolve conflicts peacefully.
 ***William and yjy Tue.25.Oct.2022***
+
+## Things about freedom and treaties
+***Is there real freedom under the condition of abiding by laws and disciplines?***
+
+
+***William and yjy Sat.29.Oct.2022***  
 
 ## Copyright
 ©️©️©️©️©️
