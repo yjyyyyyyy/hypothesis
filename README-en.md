@@ -55,7 +55,7 @@ We are greedy for living because we are afraid of losing the things that make us
 What are the things that make us happy? It is those worthy sights, other worthy lives and people, or the pleasure brought by fame and achievements. 
 After all, the meaning of human existence is to enjoy the things worthwhile in this world.  
 ***yjy and William Thur.13.Oct.2022***  
-***yjy editing Tue.25.Oct.2022***
+***yjy editing Tue.25.Oct.2022***  
 *this paragraph would be used in yjy‘s individual speech contest*
 
 ## If your game suddenly stops serving
