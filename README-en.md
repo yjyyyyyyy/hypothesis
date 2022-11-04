@@ -105,7 +105,7 @@ In the final analysis, laws and treaties do not completely limit our freedom. It
 ©️©️©️©️©️
 ```
 Copyright (c) 2022 Dory Yang & William Sun
-All rights reserved
+All rights reserved.
 ```
   
 [Back to top](#Hypothesis)
