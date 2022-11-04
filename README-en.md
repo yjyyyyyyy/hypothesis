@@ -90,15 +90,15 @@ Without the war, the economy would have grown faster and much less casualties，
 After all: War included both pros and cons, but the disadvantages brought by war definitely outweigh the advantages. We should avoid war and conflict as much as possible. We better resolve conflicts peacefully.
 ***William and yjy Tue.25.Oct.2022***
 
-## Things about freedom and treaties
-***Is there real freedom under the condition of abiding by laws and disciplines?***
+## Things about freedom and rules
+***Is there true freedom under the condition of abiding by the law?***
 
 > At present, our actions are bound by laws and treaties, and everything is done according to regulations and plans. Take a simple example: *You must get up at the specified time even if you are very sleepy* However, in the primitive times, there was no time management and arrangement. Sleeping was a normal physiological reaction. Sleeping when you were sleepy did not lead to insufficient sleep. Would life without treaty constraints be better?
 
 In today's society ruled by law, all things should be done in accordance with discipline and law. At the same time, many treaties and regulations have been added, and the behavior is carried out according to the system.  
 However, sometimes laws and treaties limit the freedom of some acts. Is this good or bad for people? For examples: Children are not allowed to smoke and drink; For adults, speeding is not allowed while driving.  
 In fact, although various laws and regulations restrict the freedom of conduct in the general sense, they also allow and protect the safety and legal freedom of the masses. If children smoke and drink, it may cause chronic diseases; Driving over speed may lead to accidents. Without legal provisions, many people will lack safety awareness, which will lead to accidents and crimes. Without treaties and plans, life will become chaotic, and more unexpected accidents may occur.  
-In the final analysis, laws and treaties do not completely limit our freedom. It is either directly or indirectly protecting our freedom.  
+In the final analysis, laws and treaties do not completely limit our freedom. It is either directly or indirectly supporting our freedom.  
 ***William and yjy Sat.29.Oct.2022***  
 
 ## Copyright
