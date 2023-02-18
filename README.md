@@ -18,7 +18,7 @@
 ***作者（如果您有任何意见或者想法，可以在issues里留言，或者在Discussions里写下，也可以发邮件给我们🤔）：*** 
 |作者|邮箱|分工|
 |:---:|:---:|:---:|
-|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com｜主编|
+|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com |主编|
 |[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|完善 & 灵感 & 翻译|
 
 [点击此处查看版权](#版权)
