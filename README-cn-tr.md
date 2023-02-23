@@ -17,8 +17,8 @@
 ***作者（如果您有任何意見或者想法，可以在issues裏留言，或者在Discussions裏寫下，也可以發郵件給我們🤔）：*** 
 |作者|郵箱|分工|
 |:---:|:---:|:---:|
-|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com|寫作 & 優化 & 校對|
-|[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|完善 & 靈感 & 翻譯|
+|[`yjyyyyyyy`](https://github.com/yjyyyyyyy)|jiayan.yang09@gmail.com|主編 & 校對|
+|[`WillamSun`](https://github.com/WillamSun)|IdadWind@gmail.com|完善 & 靈感|
 
 [點擊此處查看版權](#版權)
 ## 跨空間的假說
