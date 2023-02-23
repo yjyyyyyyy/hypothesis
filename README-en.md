@@ -10,6 +10,7 @@
 - [Hypothesis about the game of life](#Hypothesis-about-the-game-of-life)
 - [About pros and cons of war](#About-pros-and-cons-of-war)
 - [Things about freedom and treaties](#Things-about-freedom-and-treaties)
+- [The doctrine of atomic separation](#The-doctrine-of-atomic-separation)
 - [Copyright](#Copyright)
 ## Introduction
 > This repository wrote some philosophical questions about the whims of the author and the author's friends. I felt that just having an idea was not enough, so I wrote it on GitHub
