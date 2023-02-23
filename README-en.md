@@ -101,6 +101,15 @@ In fact, although various laws and regulations restrict the freedom of conduct i
 In the final analysis, laws and treaties do not completely limit our freedom. It is either directly or indirectly supporting our freedom.  
 ***William and yjy Sat.29.Oct.2022***  
 
+## The doctrine of atomic separation
+> As we all know, atoms were created when stars exploded billions of years ago. These atoms are scattered throughout the vast universe. Under the influence of gravity, these atoms settled and clumped together to form countless new matter. 
+Everything is made up of atoms coming together, so will atoms separate and disintegrate?
+
+What I wanna say is: since gravity attracts atoms together, in a few billion years, will magnetic fields and gravity from the other side of the universe attract atoms around us? How will existing matter disintegrate after atom separation? Incinerated or dispersed into the cosmos...
+***yjy Wed.16.Nov.2022***  
+***Inspired by Caleb Scharf, "If the Universe could Scale."***  
+
+
 ## Copyright
 ©️©️©️©️©️
 ```
